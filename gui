@@ -1,0 +1,16 @@
+"GUI OPTIONS
+set background=dark 
+
+colorscheme ir_black
+set mouse=a
+set guifont=Inconsolata:h24 " Inconsolata, 24pt high
+
+" set default window size
+set columns=170
+set lines=48
+
+" GUI option string.  Values:
+"   c: don't pop up windows; use the console for dialog boxes and such
+"   e: use GUI tab bar instead of text tab bar
+set guioptions=ce
+
