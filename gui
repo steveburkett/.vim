@@ -1,7 +1,7 @@
 "GUI OPTIONS
 set background=dark 
 
-colorscheme ir_black
+colorscheme wombat
 set mouse=a
 set guifont=Inconsolata:h24 " Inconsolata, 24pt high
 

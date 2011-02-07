@@ -4,7 +4,7 @@ runtime macros/matchit.vim
 "bufexplorer
 "let g:bufExplorerDetailedHelp=1     " show full help text by default
 "let g:bufExplorerShowRelativePath=1 " use relative paths
-let g:bufExplorerShowUnlisted=1     " display unlisted buffers
+let g:bufExplorerShowUnlisted=0     " display unlisted buffers
 
 "NERDCommenter
 let NERDCreateDefaultMappings=0 " disable default mappings
