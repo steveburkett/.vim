@@ -8,6 +8,9 @@ set nospell
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
+" show tab and trailing spaces
+set list listchars=tab:»»,trail:·
+
 set softtabstop=2 " most of the time, we want a softtabstop of 2
 set tabstop=2     " show tabs with 2 spaces
 set shiftwidth=2  " shift by 2 spaces when using >> and <<, etc
